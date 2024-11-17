@@ -125,10 +125,6 @@ This project demonstrates how to integrate Azure OpenAI services into a .NET 8 a
    dotnet run --project AzureAI.Translator
    ```
 
-3. **Provide Input**:
-   - The program will prompt you to enter the text or document for translation.
-   - Translated output will be displayed or saved to a file, depending on the input type.
-
 ---
 
 ## Testing
